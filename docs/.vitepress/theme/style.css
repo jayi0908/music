@@ -1,0 +1,16 @@
+/* 给页面底部增加留白，防止歌词被播放器挡住 */
+.vp-doc {
+  padding-bottom: 100px !important;
+}
+
+/* 简单的滑入动画定义 */
+@keyframes slideUp {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+
+/* 字体设置 */
+:root {
+  --vp-font-family-base: "JetBrains Mono", "LXGW WenKai Screen", sans-serif;
+  --vp-font-family-mono: "JetBrains Mono", monospace;
+}
