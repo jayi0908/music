@@ -28,7 +28,8 @@ export default defineConfig({
         text: '我的收藏',
         items: [
           { text: 'ふたつの影', link: '/songs/futatsu-no-kage' },
-          { text: '明け星', link: '/songs/akeboshi' }
+          { text: '明け星', link: '/songs/akeboshi' },
+          { text: 'アルカテイル', link: '/songs/alka-tale' }
         ]
       }
     ],

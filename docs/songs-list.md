@@ -4,3 +4,4 @@
 
 - [ふたつの影 - Famishin / 春風まゆき](songs/futatsu-no-kage.md)
 - [明け星 - レモネードファクトリー](songs/akeboshi.md)
+- [アルカテイル - 鈴木このみ / VISUAL ARTS / Key](songs/alka-tale.md)

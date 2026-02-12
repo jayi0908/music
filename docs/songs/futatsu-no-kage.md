@@ -4,6 +4,8 @@ title: ふたつの影
 
 # ふたつの影
 
+---
+
 夕阳西下 灯火微亮 孩子们的嬉戏声  
 夕暮れ ともし火（び） 子どもの声  
 Yu u gure to moshibi kodomo no ko e  

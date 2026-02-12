@@ -4,6 +4,8 @@ title: 明け星
 
 # 明け星
 
+---
+
 我真正渴望的 绝非某个标准答案 身陷深夜时分 只得发出一声叹息  
 欲しいのはきっと正解じゃない　夜の真ん中　吐き出すため息  
 Hoshii no wa ki tto se i ka i ja na i yoru no ma n'naka hakidasu tameiki  
